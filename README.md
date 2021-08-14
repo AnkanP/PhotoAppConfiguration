@@ -1,0 +1,2 @@
+# PhotoAppConfiguration
+Cloud config server
